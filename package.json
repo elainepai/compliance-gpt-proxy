@@ -1,0 +1,13 @@
+{
+  "name": "compliance-gpt-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server to transform Custom GPT input into Facebook Graph API JSON requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
